@@ -1,6 +1,10 @@
 # CGPR-rotatingCube
 Computer Graphics project using openGL in C
 
+TO INSTALL OPENGL IN UBUNTU
+
+sudo apt-get install mesa-utils
+
 Needs OpenGL graphics libraries
 
   Info about some functions used in the project - 
